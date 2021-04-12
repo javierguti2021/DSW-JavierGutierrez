@@ -3,14 +3,14 @@ header
 background-color: brown;
 color: cornsilk;
 margin: auto;
-width: 600px;
+width: 700px;
 border-radius: 10px;
 }
 nav{
   
 
 background-color: midnightblue;
-padding: 30px 15px;
+padding: 20px 15px;
 color:white;
 }
 
@@ -51,8 +51,8 @@ list-style: none;
 
 #menu {
 
-    width:  36%;
-    margin: 20px left ;
+    width:  40%;
+    margin: 15px left ;
     border:5px solid #107677;
     background: #111;
     background:  linear-gradient(#2a4885, #577cc9);
